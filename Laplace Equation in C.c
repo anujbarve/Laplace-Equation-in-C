@@ -43,7 +43,7 @@ main()
    entrow(1,u); entrow(S,u);
    entcol(1,u); entcol(S,u);
    printf(" Enter the allowed error and maximum number of iteration : ");
-   scanf("%f%d",&ar,&maxitr);
+   scanf("%f%f",&ar,&maxitr);
    for(itr=1;itr<=maxitr;itr++)
    {
        mer=0;
