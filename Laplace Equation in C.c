@@ -1,6 +1,6 @@
 // Laplace Equation in C //
 // By Anuj Barve //
-
+// v 1.0 //
 
 #include<stdio.h>
 #include<math.h>
